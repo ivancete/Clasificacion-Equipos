@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/97c2b14901edd7970ff2bda8a47ffa2350f554de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_c640597fbd4a1a40a8be81bc793e2d2d2c35b353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/55c43891b69f3dad952631ce28912737990d3acd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_0b7de2e1142201c288fa7f5bee774af19d72bf00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_fcca792db3f61c2bbc042c85c39c3ce22ffceeed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/78489cd959cd5e508c93839e274966fb89dad7bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_679cecee38958738fe481f126ff994a488f6efa2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.2_047236797bad2a748bf764cedacd2eb733c74410/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2bbc16ca1a71c95f3adac1ef37db31d9e3a97866.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1688d1de7ff30fc4f89d7664335b1b554c0d4c0d">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3a939665d02a201cd00eeebf31a45e056a629a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/1361cfbd322a1723d41219235d247edc445c2a50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_47137c846b3f2f07800e255e7219de9d7453ce58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/71d42470f0f98e87d43d55218d1dad2548061a5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_27dc5323a8b7471b457a6c7fa7da7723cade6678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/0888168a440caf22a369015b0e000d7ee57374c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_372195cbc09765b7459b3125d0a2dc8fccdb7df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_047236797bad2a748bf764cedacd2eb733c74410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/d4b6992e7eac619bdc47ee63f1b11cde4e4fcb4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_c80a91a8a44482e34d24b071ea40bfad28b44456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/74423db8e21bbc838b5d08305c3710323e2730b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_a8a5214182c435485cba8e0487ade315e96b89d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_decbe40ad9cfa4f8d7a9905016d39516992bda88/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/0c06d6b1038e2985cc6e5c9b27d2f5370b570098/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_00b6065b442ae28f288b9f6111c64181cff97420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivanovic/.android/build-cache/b4395111445f3d1295740bf5eaa17163354bfe59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Ivanovic/AndroidStudioProjects/TeamsClasification/app/build/intermediates/pre-dexed/debug/classes_f30a4d669688f14dcff5f469a50d56952d0aa27a.jar" />
+    </item>
+
+</items>

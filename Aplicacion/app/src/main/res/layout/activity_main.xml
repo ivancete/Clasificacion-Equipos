@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    android:orientation="vertical"
+    tools:context="com.example.ivanovic.teamsclasification.Main">
+
+    <Button
+        android:id="@+id/clasificacionEspania"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/clasificacionInglaterra"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp"
+        android:text="Liga Santander"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+    <Button
+        android:id="@+id/clasificacionInglaterra"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="206dp"
+        android:text="Premiere League"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+    <Button
+        android:id="@+id/clasificacionItalia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/clasificacionEspania"
+        android:layout_marginTop="61dp"
+        android:text="Serie A" />
+
+    <Button
+        android:id="@+id/clasificacionFrancia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/clasificacionItalia"
+        android:layout_marginTop="13dp"
+        android:text="Ligue 1" />
+
+    <Button
+        android:id="@+id/clasificacionAlemania"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/clasificacionFrancia"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="Bundesliga" />
+
+</RelativeLayout>
